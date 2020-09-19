@@ -1,0 +1,12 @@
+{
+  "name": "photon_crystal_layers",
+  "version": "1.0.0",
+  "description": "make layers",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev":"nodemon --exec electron ."
+   },
+  "author": "Vladimir K",
+  "license": "MIT"
+}
